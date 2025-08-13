@@ -11,9 +11,10 @@ var templateNav = `
     </div>
     <div class="nav">
         <div class="menu">
-            <a class="menu-item" href="/Portfolio/">home</a>
-            <a class="menu-item" href="/Portfolio/works">works</a>
-            <a class="menu-item" href="/Portfolio/cv">about</a>
+            <a class="menu-item" href="/my-web/">home</a>
+            <a class="menu-item" href="/my-web/portfolio">portfolio</a>
+            <a class="menu-item" href="/my-web/works">works</a>
+            <a class="menu-item" href="/my-web/cv">about</a>
         </div>
     </div>`;
 
