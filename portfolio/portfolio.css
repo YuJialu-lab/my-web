@@ -478,7 +478,7 @@ p {
   max-width: 1280px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding: 80px 5%;
+  padding: 60px 5%;
   -webkit-transition: all 2s cubic-bezier(0.61, 0.01, 0.09, 1.01);
   transition: all 2s cubic-bezier(0.61, 0.01, 0.09, 1.01);
   margin: auto;
@@ -830,7 +830,7 @@ footer p:first-child {
 
 header {
   position: relative;
-  height: 400px;
+  height: 600px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
