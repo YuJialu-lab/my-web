@@ -51,7 +51,7 @@ for (let i = 0; i < skills.length; i++) {
 var social = [{
         img: "../assets/portfolio/linkedin.svg",
         title: "linkedin",
-        url: "https://www.linkedin.com/in/jialu-yu-a67597165/"
+        url: "https://www.linkedin.com/in/jialu-y-062a59256/"
     },
     {
         img: "../assets/portfolio/dribbble.svg",
