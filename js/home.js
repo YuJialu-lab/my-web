@@ -4,7 +4,7 @@ window.onload = function (e) {
         {
             title: "Curriculum Vitae",
             image: ["assets/cv.jpg", "assets/cv.jpg"],
-            description: "Curriculum Vitae",
+            description: "Get to know me better!",
             url: "../my-web/cv/",
             button: "enter",
             class: "",
@@ -13,7 +13,7 @@ window.onload = function (e) {
         {
             title: "Portfolio",
             image: ["assets/more.jpg", "assets/more.jpg"],
-            description: "Seleccion of works, featuring UI Design. Get to know me!",
+            description: "Seleccion of works, UI/UX Design.",
             url: "../my-web/portfolio/",
             button: "enter",
             class: "",
@@ -48,7 +48,7 @@ window.onload = function (e) {
         {
             name: "cv and skills",
             icon: "images/me.svg",
-            url: "https://yujialu-lab.github.io/Portfolio/cv/",
+            url: "../my-web/cv/",
         },
         */
         {
