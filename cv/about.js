@@ -1,13 +1,22 @@
 //Jobs
 
 var jobs = [{
+        date: "September 2024 — Now",
+        title: "UI/UX Designer Freelancer",
+        subDate: "",
+        title2: "",
+        subDate2: "",
+        description: "Multiple companies",
+        extra: "UI/UX Designer, Webdesigner, "
+    },
+	{
         date: "September 2023 — September 2024",
         title: "UI/UX Designer",
         subDate: "",
         title2: "",
         subDate2: "",
         description: "Sport Alliance GmbH",
-        extra: "UI/UX Designer, Front-end developer, Project manager"
+        extra: "UI/UX Designer, Project manager"
     },
     {
         date: "March 2023 — July 2023",
